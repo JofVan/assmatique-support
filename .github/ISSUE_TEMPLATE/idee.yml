@@ -1,0 +1,17 @@
+name: Proposer une idée
+description: Une fonction qui vous manque, une amélioration.
+labels: ["idée"]
+body:
+  - type: markdown
+    attributes:
+      value: "⚠️ Cette page est publique : n'écrivez aucune donnée personnelle."
+  - type: textarea
+    id: idee
+    attributes:
+      label: Votre idée
+    validations:
+      required: true
+  - type: textarea
+    id: pourquoi
+    attributes:
+      label: En quoi vous aiderait-elle ?
