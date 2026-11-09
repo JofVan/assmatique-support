@@ -5,7 +5,7 @@ permalink: /confidentialite/
 
 # Politique de confidentialité d'Assmatique
 
-*Dernière mise à jour : 9 novembre 2026*
+*Dernière mise à jour : 10 novembre 2026*
 
 Assmatique aide les parents employeurs et les assistantes maternelles à gérer leur contrat de garde. Cette politique explique ce que l'application fait des données. En résumé : **l'éditeur ne collecte, ne reçoit et ne stocke aucune donnée.**
 
@@ -37,7 +37,8 @@ Assmatique aide les parents employeurs et les assistantes maternelles à gérer 
 
 - Aucune publicité, aucun traceur, aucune mesure d'audience, aucun outil d'analyse.
 - Aucun compte à créer.
-- Aucune connexion réseau : les barèmes réglementaires sont livrés avec l'application et mis à jour avec elle.
+- Une seule connexion réseau, facultative : les **suggestions d'adresses**. Quand vous tapez une adresse, ce texte (et lui seul) est envoyé à la Base Adresse Nationale, service public opéré par l'IGN (data.geopf.fr), pour proposer des adresses existantes. Aucun nom, identifiant ou autre donnée n'est transmis. Vous pouvez désactiver ces suggestions dans Réglages : l'application ne se connecte alors jamais à Internet.
+- Les barèmes réglementaires sont livrés avec l'application et mis à jour avec elle.
 
 ## 6. Vos droits
 
